@@ -1,0 +1,22 @@
+{
+  "name": "<filled in by the plugin generator>",
+  "version": "0.0.0",
+  "description": "<filled in by the plugin generator>",
+  "homepage": "<filled in by the plugin generator>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aws-lite/aws-lite.git",
+    "directory": "<filled in by the plugin generator>"
+  },
+  "bugs": "https://github.com/aws-lite/aws-lite/issues",
+  "main": "src/index.mjs",
+  "engines": {
+    "node": ">=16"
+  },
+  "author": "<filled in by the plugin generator>",
+  "license": "Apache-2.0",
+  "files": [
+    "src"
+  ],
+  "scripts": {}
+}

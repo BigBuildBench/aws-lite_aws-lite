@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "create-resources": "node ./create-resources.js",
+    "bench": "npm run benchmark",
+    "benchmark": "./benchmark-speed.js && ./benchmark-size.js"
+  }
+}

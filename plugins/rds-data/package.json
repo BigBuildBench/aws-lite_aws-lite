@@ -1,0 +1,22 @@
+{
+  "name": "@aws-lite/rds-data",
+  "version": "0.0.8",
+  "description": "Official `aws-lite` plugin for RDS Data Service",
+  "homepage": "https://aws-lite.org/services/rds-data",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aws-lite/aws-lite.git",
+    "directory": "plugins/rds-data"
+  },
+  "bugs": "https://github.com/aws-lite/aws-lite/issues",
+  "main": "src/index.mjs",
+  "engines": {
+    "node": ">=16"
+  },
+  "author": "@andybee",
+  "license": "Apache-2.0",
+  "files": [
+    "src"
+  ],
+  "scripts": {}
+}

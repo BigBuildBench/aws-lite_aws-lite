@@ -1,0 +1,22 @@
+{
+  "name": "@aws-lite/organizations",
+  "version": "0.0.3",
+  "description": "Official `aws-lite` plugin for Organizations",
+  "homepage": "https://aws-lite.org/services/organizations",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aws-lite/aws-lite.git",
+    "directory": "plugins/organizations"
+  },
+  "bugs": "https://github.com/aws-lite/aws-lite/issues",
+  "main": "src/index.mjs",
+  "engines": {
+    "node": ">=16"
+  },
+  "author": "@architect",
+  "license": "Apache-2.0",
+  "files": [
+    "src"
+  ],
+  "scripts": {}
+}

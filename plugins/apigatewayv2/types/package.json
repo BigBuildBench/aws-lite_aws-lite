@@ -1,0 +1,23 @@
+{
+  "name": "@aws-lite/apigatewayv2-types",
+  "version": "0.0.11",
+  "description": "Type definitions for the `@aws-lite/apigatewayv2` plugin",
+  "homepage": "https://aws-lite.org/services/apigatewayv2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aws-lite/aws-lite.git",
+    "directory": "plugins/apigatewayv2/types"
+  },
+  "bugs": "https://github.com/aws-lite/aws-lite/issues",
+  "main": "",
+  "engines": {
+    "node": ">=16"
+  },
+  "author": "@architect",
+  "license": "Apache-2.0",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "scripts": {}
+}
